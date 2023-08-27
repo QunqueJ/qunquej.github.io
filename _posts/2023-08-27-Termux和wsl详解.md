@@ -8,9 +8,9 @@ header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - Termux
-	- WSL
-	- Ubuntu
-	- Linux
+    - WSL
+    - Ubuntu
+    - Linux
 ---
 
 ## 前言
