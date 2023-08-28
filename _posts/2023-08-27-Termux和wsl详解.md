@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Termux/wsl
-subtitle:   在Termux/WSL上安装Ubuntu系统
+subtitle:   在Termux/WSL上安装Linux图形化界面
 date:       2023-08-27
 author:     QunqueJ
 header-img: img/post-bg-cook.jpg
